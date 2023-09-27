@@ -7,7 +7,7 @@
   - [Movie Project Practicing OOP Concepts](https://github.com/Skovixia/OOP-Practice)
 - <b>Extra Practice Problems in C++ </b>
   - [Format Specifier Practice](https://github.com/Skovixia/FormatSpecifier)
-  - [Sorting Algoirthm Practice](https://github.com/Skovixia/SortTimeProblem)
+  - [Sorting Algorthm Practice](https://github.com/Skovixia/SortTimeProblem)
 - <b>Advanced Data Management Project Demonstration Video in Postgresql </b>
   - [Demo using sample database](https://youtu.be/TjrJgrbC8ko?feature=shared)
 
