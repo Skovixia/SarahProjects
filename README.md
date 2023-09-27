@@ -1,6 +1,6 @@
 <h1>Hi, I'm Sarah!</h1>
 
-<h2>Programming Projects Projects:</h2>
+<h2>Programming Projects:</h2>
 
 - <b>OOP Projects </b>
   - [Class Roster Project practicing OOP concepts in C++](https://github.com/Skovixia/ClassRosterProject)
