@@ -1,5 +1,6 @@
 <h1>Hi, I'm Sarah!</h1>
-
+    Here are just some projects I have completed throughout my CS classes. I am attempting to create a small portfolio and engage in more projects to add to it. 
+    I would like to become more and more confident in my skill sets and feel that I can take any challenge that comes my way. 
 <h2>Programming Projects:</h2>
 
 - <b>OOP Projects </b>
@@ -12,18 +13,3 @@
   - [Demo using sample database](https://youtu.be/TjrJgrbC8ko?feature=shared)
 
 I have utilized several programming languages such Java, Python, HTML, CSS, C++, JavaScript, and SQL. 
- 
-<!--
-**joshmadakor1/joshmadakor1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
